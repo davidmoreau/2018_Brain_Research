@@ -10,7 +10,7 @@ Files included:
 - Difference analysis without Richards: all files (.txt, .nii, .xls) for Phase 1, leaving out the Richards et al. study.
 - Additional analysis adults: all files (.txt, .nii, .xls) for Phase 1, adults only.
 - Additional analysis children: all files (.txt, .nii, .xls) for Phase 1, children only.
-- Tailairach conversion: coordinates for studies that needed conversion.
+- Talairach conversion: coordinates for studies that needed conversion.
 - Correlation analysis - positive correlations: all files (.txt, .nii, .xls) for Phase 2, reporting a positive correlation.
 - Correlation analysis - negative correlations: all files (.txt, .nii, .xls) for Phase 2, reporting a negative correlation.
 - Additional correlation analysis adults: all files (.txt, .nii, .xls) for Phase 2, adults only.
