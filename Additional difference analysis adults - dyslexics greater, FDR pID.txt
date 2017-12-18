@@ -1,0 +1,13 @@
+// Reference=MNI
+// Richards et al., 2008: adult dyslexics vs. normal adult readers, dyslexics greater
+// Subjects=21
+-44	8	33
+-39	26	-14
+37	-41	-24
+-47	-23	45
+-54	2	-32
+61	-11	-16
+-45	-21	-33
+41	-60	-39
+-42	-63	-48
+-33	-52	-42

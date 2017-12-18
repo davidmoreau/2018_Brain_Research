@@ -1,0 +1,23 @@
+// Reference=MNI
+// Rimrodt, Peterson, Denckla, Kaufmann, Cutting, 2010: dyslexics vs. typically developing controls, dyslexics greater
+// Subjects=31
+-44	0	-10
+50	-16	-28
+34	-32	52
+46	-70	-16
+18	20	-8
+2	-4	-22
+58	-48	10
+
+// Richards et al., 2008: adult dyslexics vs. normal adult readers, dyslexics greater
+// Subjects=21
+-44	8	33
+-39	26	-14
+37	-41	-24
+-47	-23	45
+-54	2	-32
+61	-11	-16
+-45	-21	-33
+41	-60	-39
+-42	-63	-48
+-33	-52	-42

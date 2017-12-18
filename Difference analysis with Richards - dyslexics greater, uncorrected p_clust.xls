@@ -1,0 +1,17 @@
+Cluster #	Volume (mm^3)	Weighted Center (x,y,z)			Extrema Value	x	y	z	Label
+1	12432	-49	1	-21	0.009234563	-44	0	-10	Left Cerebrum.Sub-lobar.Insula.Gray Matter.Brodmann area 13
+					0.008508359	-54	2	-32	Left Cerebrum.Temporal Lobe.Middle Temporal Gyrus.Gray Matter.Brodmann area 21
+2	12248	55.5	-13.5	-22	0.0092352	50	-16	-28	Right Cerebrum.Temporal Lobe.Sub-Gyral.Gray Matter.Brodmann area 20
+					0.007970334	60	-12	-16	Right Cerebrum.Temporal Lobe.Middle Temporal Gyrus.Gray Matter.Brodmann area 21
+3	12128	-37.5	-57.5	-45	0.008234363	-37.5	-57.5	-45	Left Cerebellum.Posterior Lobe.Cerebellar Tonsil.Gray Matter.*
+4	6720	41	-60	-39	0.00796919	41	-60	-39	Right Cerebellum.Posterior Lobe.Cerebellar Tonsil.Gray Matter.*
+5	6720	37	-41	-24	0.00796919	37	-41	-24	Right Cerebellum.Anterior Lobe.Culmen.Gray Matter.*
+6	6720	-47	-23	45	0.0077125574	-47	-23	45	Left Cerebrum.Parietal Lobe.Postcentral Gyrus.Gray Matter.Brodmann area 2
+7	6560	-39	26	-14	0.008234363	-39	26	-14	Left Cerebrum.Frontal Lobe.Inferior Frontal Gyrus.Gray Matter.Brodmann area 47
+8	6560	-44	8	33	0.008234363	-44	8	33	Left Cerebrum.Frontal Lobe.Precentral Gyrus.Gray Matter.Brodmann area 9
+9	6008	18	20	-8	0.009234563	18	20	-8	Right Cerebrum.Sub-lobar.Caudate.Gray Matter.Caudate Head
+10	6008	34	-32	52	0.009234563	34	-32	52	Right Cerebrum.Parietal Lobe.Postcentral Gyrus.Gray Matter.Brodmann area 3
+11	5960	58	-48	10	0.009234563	58	-48	10	Right Cerebrum.Temporal Lobe.Superior Temporal Gyrus.Gray Matter.Brodmann area 22
+12	5632	45.9	-69.9	-15.9	0.009234563	46	-70	-16	Right Cerebellum.Posterior Lobe.Declive.Gray Matter.*
+13	5408	-44.9	-20.5	-32.2	0.0077125574	-45	-21	-33	Left Cerebrum.Temporal Lobe.Inferior Temporal Gyrus.Gray Matter.Brodmann area 20
+14	4616	2.3	-4.8	-21.1	0.009234563	2	-4	-22	*.*.*.Gray Matter.Hypothalamus
