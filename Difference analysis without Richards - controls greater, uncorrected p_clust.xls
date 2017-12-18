@@ -1,0 +1,13 @@
+Cluster #	Volume (mm^3)	Weighted Center (x,y,z)			Extrema Value	x	y	z	Label
+1	53024	-30.2	-6.2	14.6	0.009242835	-46	-32	18	Left Cerebrum.Temporal Lobe.Superior Temporal Gyrus.Gray Matter.*
+					0.008287567	-32	-30	16	Left Cerebrum.Sub-lobar.Insula.Gray Matter.Brodmann area 13
+					0.007934561	-28	-26	24	Left Cerebrum.Sub-lobar.Insula.Gray Matter.Brodmann area 13
+					0.007649368	-30	0	9	Left Cerebrum.Sub-lobar.Claustrum.Gray Matter.*
+					0.0074963663	-22	24	20	No Gray Matter found
+					0.007427214	-22	26	6	Left Cerebrum.Sub-lobar.Claustrum.Gray Matter.*
+					0.0074149077	-33	-7	6	Left Cerebrum.Sub-lobar.Claustrum.Gray Matter.*
+2	9920	31	-44.3	30.4	0.007299537	30	-44	30	Right Cerebrum.Limbic Lobe.Cingulate Gyrus.Gray Matter.Brodmann area 31
+3	9776	30	0	15	0.007649368	30	0	15	Right Cerebrum.Sub-lobar.Lentiform Nucleus.Gray Matter.Putamen
+4	9720	-24	-87	15	0.0074149077	-24	-87	15	Left Cerebrum.Occipital Lobe.Middle Occipital Gyrus.Gray Matter.Brodmann area 19
+5	8360	-54	4	30	0.009234563	-54	4	30	Left Cerebrum.Frontal Lobe.Precentral Gyrus.Gray Matter.Brodmann area 6
+6	6768	57.5	5.9	33.7	0.009234563	58	6	34	Right Cerebrum.Frontal Lobe.Precentral Gyrus.Gray Matter.Brodmann area 6

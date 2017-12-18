@@ -1,0 +1,10 @@
+// Reference=MNI
+// Rimrodt, Peterson, Denckla, Kaufmann, Cutting, 2010: dyslexics vs. typically developing controls, dyslexics greater
+// Subjects=31
+-44	0	-10
+50	-16	-28
+34	-32	52
+46	-70	-16
+18	20	-8
+2	-4	-22
+58	-48	10

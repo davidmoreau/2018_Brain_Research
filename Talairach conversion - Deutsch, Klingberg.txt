@@ -1,0 +1,10 @@
+// Reference=Talairach
+// Deutsch et al., 2005: dyslexics vs. controls, controls greater 
+// Subjects=14
+-28	-26	23
+28	-45	28
+-22	21	23
+
+// Klingberg et al., 2000: dyslexics vs. controls, controls greater 
+// Subjects=17
+-31	-30	16

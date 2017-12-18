@@ -1,0 +1,249 @@
+Mask:
+Dimensions                    = 77x96x79
+Number of within-brain voxels = 264227
+Mask Size                     = Less Conservative (Larger)
+
+Foci:
+Coordinate System             = MNI
+File of foci coordinates      = Difference analysis without Richards - dyslexics greater, uncorrected p.txt
+Number of foci                = 7
+Number of experiments         = 1
+Total number of subjects      = 31
+
+ALE - Random Effects, Turkeltaub Non-Additive (HBM, 2012):
+File of ALE voxels            = Difference analysis without Richards - dyslexics greater, uncorrected p_ALE.nii
+FWHM of a focus               = 8.95555138448401
+Minimum ALE score             = 1.4E-45
+Maximum ALE score             = 0.009234563
+
+P Values: Eickhoff (HBM, 2009)
+File of P values              = Difference analysis without Richards - dyslexics greater, uncorrected p_P.nii
+Minimum P value               = 2.6492373E-5
+
+Thresholding:
+Threshold Method              = Uncorrected P value
+Chosen P value threshold      = 0.05
+Minimum ALE value > Threshold = 5.27809E-6
+Volume > Threshold            = 91576 mm^3
+Chosen min. cluster size      = 100 mm^3
+Thresholded ALE image         = Difference analysis without Richards - dyslexics greater, uncorrected p_ALE_p05.nii
+
+Cluster Analysis:
+ #1: 13944 mm^3 from (-58,-14,-24) to (-30,14,4) centered at (-44,0,-10)
+   Extrema: (Labels are within +/-5mm)
+     0.009234563 at (-44,0,-10)	Left Cerebrum.Sub-lobar.Insula.Gray Matter.Brodmann area 13
+   Labels: (Nearest gray within +/-5mm)
+     3112mm Left Cerebrum.Sub-lobar.Insula.Gray Matter.Brodmann area 13
+     2288mm Left Cerebrum.Temporal Lobe.Superior Temporal Gyrus.Gray Matter.Brodmann area 22
+     2192mm Left Cerebrum.Temporal Lobe.Superior Temporal Gyrus.Gray Matter.Brodmann area 38
+     2112mm Left Cerebrum.Sub-lobar.Claustrum.Gray Matter.*
+     1184mm Left Cerebrum.Temporal Lobe.Sub-Gyral.Gray Matter.Brodmann area 21
+     616mm Left Cerebrum.Temporal Lobe.Middle Temporal Gyrus.Gray Matter.Brodmann area 21
+     536mm Left Cerebrum.Sub-lobar.Lentiform Nucleus.Gray Matter.Putamen
+     440mm Left Cerebrum.Sub-lobar.Extra-Nuclear.Gray Matter.Brodmann area 13
+     304mm Left Cerebrum.Sub-lobar.Insula.Gray Matter.*
+     240mm Left Cerebrum.Limbic Lobe.Parahippocampal Gyrus.Gray Matter.Amygdala
+     160mm Left Cerebrum.Temporal Lobe.Sub-Gyral.Gray Matter.Brodmann area 13
+     128mm Left Cerebrum.Temporal Lobe.Inferior Frontal Gyrus.Gray Matter.Brodmann area 13
+     120mm Left Cerebrum.Temporal Lobe.Superior Temporal Gyrus.Gray Matter.*
+     96mm Left Cerebrum.Temporal Lobe.Sub-Gyral.Gray Matter.Brodmann area 20
+     96mm Left Cerebrum.Temporal Lobe.Superior Temporal Gyrus.Gray Matter.Brodmann area 21
+     88mm Left Cerebrum.Frontal Lobe.Inferior Frontal Gyrus.Gray Matter.Brodmann area 47
+     88mm Left Cerebrum.Frontal Lobe.Precentral Gyrus.Gray Matter.Brodmann area 44
+     64mm Left Cerebrum.Temporal Lobe.Superior Temporal Gyrus.Gray Matter.Brodmann area 13
+     48mm No Gray Matter found
+     16mm Left Cerebrum.Temporal Lobe.Middle Temporal Gyrus.Gray Matter.Brodmann area 38
+     8mm Left Cerebrum.Temporal Lobe.Fusiform Gyrus.Gray Matter.Brodmann area 20
+     8mm Left Cerebrum.Limbic Lobe.Parahippocampal Gyrus.Gray Matter.Hippocampus
+
+ #2: 13944 mm^3 from (4,6,-22) to (32,34,6) centered at (18,20,-8)
+   Extrema: (Labels are within +/-5mm)
+     0.009234563 at (18,20,-8)	Right Cerebrum.Sub-lobar.Caudate.Gray Matter.Caudate Head
+   Labels: (Nearest gray within +/-5mm)
+     4184mm Right Cerebrum.Sub-lobar.Caudate.Gray Matter.Caudate Head
+     3488mm Right Cerebrum.Sub-lobar.Lentiform Nucleus.Gray Matter.Putamen
+     1176mm Right Cerebrum.Sub-lobar.Caudate.Gray Matter.Caudate Body
+     968mm Right Cerebrum.Sub-lobar.Claustrum.Gray Matter.*
+     600mm Right Cerebrum.Frontal Lobe.Inferior Frontal Gyrus.Gray Matter.Brodmann area 47
+     600mm Right Cerebrum.Limbic Lobe.Anterior Cingulate.Gray Matter.Brodmann area 32
+     472mm Right Cerebrum.Limbic Lobe.Anterior Cingulate.Gray Matter.Brodmann area 24
+     392mm Right Cerebrum.Frontal Lobe.Subcallosal Gyrus.Gray Matter.Brodmann area 47
+     392mm Right Cerebrum.Sub-lobar.*.Gray Matter.*
+     352mm Right Cerebrum.Limbic Lobe.Anterior Cingulate.Gray Matter.Brodmann area 25
+     288mm No Gray Matter found
+     272mm Right Cerebrum.Sub-lobar.Lentiform Nucleus.Gray Matter.Lateral Globus Pallidus
+     160mm Right Cerebrum.Frontal Lobe.Medial Frontal Gyrus.Gray Matter.Brodmann area 25
+     112mm Right Cerebrum.Frontal Lobe.Subcallosal Gyrus.Gray Matter.Brodmann area 25
+     80mm Right Cerebrum.Frontal Lobe.Medial Frontal Gyrus.Gray Matter.Brodmann area 11
+     72mm Right Cerebrum.Frontal Lobe.Sub-Gyral.Gray Matter.Brodmann area 47
+     72mm Right Cerebrum.Sub-lobar.Insula.Gray Matter.Brodmann area 47
+     56mm Right Cerebrum.Sub-lobar.Extra-Nuclear.Gray Matter.Brodmann area 13
+     56mm Right Cerebrum.Sub-lobar.Insula.Gray Matter.Brodmann area 13
+     48mm Right Cerebrum.Frontal Lobe.Subcallosal Gyrus.Gray Matter.Brodmann area 13
+     40mm Right Cerebrum.Sub-lobar.Caudate.Gray Matter.*
+     24mm Right Cerebrum.Frontal Lobe.Middle Frontal Gyrus.Gray Matter.Brodmann area 11
+     24mm Right Cerebrum.Limbic Lobe.Anterior Cingulate.Gray Matter.*
+     16mm Right Cerebrum.Frontal Lobe.Medial Frontal Gyrus.Gray Matter.Brodmann area 10
+
+ #3: 13944 mm^3 from (20,-46,38) to (48,-18,66) centered at (34,-32,52)
+   Extrema: (Labels are within +/-5mm)
+     0.009234563 at (34,-32,52)	Right Cerebrum.Parietal Lobe.Postcentral Gyrus.Gray Matter.Brodmann area 3
+   Labels: (Nearest gray within +/-5mm)
+     3320mm Right Cerebrum.Parietal Lobe.Inferior Parietal Lobule.Gray Matter.Brodmann area 40
+     3096mm Right Cerebrum.Parietal Lobe.Postcentral Gyrus.Gray Matter.Brodmann area 3
+     1320mm Right Cerebrum.Frontal Lobe.Precentral Gyrus.Gray Matter.Brodmann area 4
+     976mm Right Cerebrum.Limbic Lobe.Cingulate Gyrus.Gray Matter.Brodmann area 31
+     920mm Right Cerebrum.Parietal Lobe.Precuneus.Gray Matter.Brodmann area 7
+     856mm Right Cerebrum.Frontal Lobe.Paracentral Lobule.Gray Matter.Brodmann area 5
+     824mm Right Cerebrum.Parietal Lobe.Sub-Gyral.Gray Matter.Brodmann area 40
+     656mm No Gray Matter found
+     624mm Right Cerebrum.Parietal Lobe.Postcentral Gyrus.Gray Matter.Brodmann area 40
+     616mm Right Cerebrum.Parietal Lobe.Postcentral Gyrus.Gray Matter.Brodmann area 2
+     312mm Right Cerebrum.Parietal Lobe.Postcentral Gyrus.Gray Matter.Brodmann area 5
+     104mm Right Cerebrum.Parietal Lobe.Paracentral Lobule.Gray Matter.Brodmann area 5
+     104mm Right Cerebrum.Parietal Lobe.Superior Parietal Lobule.Gray Matter.Brodmann area 7
+     72mm Right Cerebrum.Frontal Lobe.Paracentral Lobule.Gray Matter.Brodmann area 3
+     56mm Right Cerebrum.Parietal Lobe.Sub-Gyral.Gray Matter.Brodmann area 7
+     40mm Right Cerebrum.Frontal Lobe.Postcentral Gyrus.Gray Matter.Brodmann area 3
+     16mm Right Cerebrum.Frontal Lobe.Sub-Gyral.Gray Matter.Brodmann area 31
+     16mm Right Cerebrum.Parietal Lobe.Precentral Gyrus.Gray Matter.Brodmann area 3
+     8mm Right Cerebrum.Parietal Lobe.Supramarginal Gyrus.Gray Matter.Brodmann area 40
+     8mm Right Cerebrum.Frontal Lobe.Postcentral Gyrus.Gray Matter.Brodmann area 4
+
+ #4: 13496 mm^3 from (36,-30,-42) to (64,-2,-14) centered at (50,-16,-28)
+   Extrema: (Labels are within +/-5mm)
+     0.009234563 at (50,-16,-28)	Right Cerebrum.Temporal Lobe.Sub-Gyral.Gray Matter.Brodmann area 20
+   Labels: (Nearest gray within +/-5mm)
+     3488mm Right Cerebrum.Temporal Lobe.Inferior Temporal Gyrus.Gray Matter.Brodmann area 20
+     3400mm Right Cerebrum.Temporal Lobe.Fusiform Gyrus.Gray Matter.Brodmann area 20
+     1848mm Right Cerebrum.Temporal Lobe.Middle Temporal Gyrus.Gray Matter.Brodmann area 21
+     1816mm Right Cerebrum.Temporal Lobe.Sub-Gyral.Gray Matter.Brodmann area 20
+     912mm Right Cerebrum.Temporal Lobe.Sub-Gyral.Gray Matter.Brodmann area 21
+     504mm Right Cerebrum.Limbic Lobe.Uncus.Gray Matter.Brodmann area 20
+     504mm Right Cerebrum.Limbic Lobe.Parahippocampal Gyrus.Gray Matter.Brodmann area 36
+     456mm Right Cerebrum.Limbic Lobe.Parahippocampal Gyrus.Gray Matter.Hippocampus
+     168mm Right Cerebrum.Temporal Lobe.Inferior Temporal Gyrus.Gray Matter.Brodmann area 21
+     136mm Right Cerebrum.Temporal Lobe.Superior Temporal Gyrus.Gray Matter.Brodmann area 22
+     80mm No Gray Matter found
+     64mm Right Cerebrum.Temporal Lobe.Caudate.Gray Matter.Caudate Tail
+     48mm Right Cerebrum.Limbic Lobe.Parahippocampal Gyrus.Gray Matter.Brodmann area 20
+     24mm Right Cerebrum.Sub-lobar.Insula.Gray Matter.Brodmann area 13
+     16mm Right Cerebrum.Limbic Lobe.Parahippocampal Gyrus.Gray Matter.Amygdala
+     16mm Right Cerebrum.Temporal Lobe.Superior Temporal Gyrus.Gray Matter.Brodmann area 21
+     8mm Right Cerebrum.Limbic Lobe.Inferior Temporal Gyrus.Gray Matter.Brodmann area 20
+     8mm Right Cerebrum.Limbic Lobe.Fusiform Gyrus.Gray Matter.Brodmann area 20
+
+ #5: 12968 mm^3 from (44,-62,-4) to (70,-34,24) centered at (58,-48,10)
+   Extrema: (Labels are within +/-5mm)
+     0.009234563 at (58,-48,10)	Right Cerebrum.Temporal Lobe.Superior Temporal Gyrus.Gray Matter.Brodmann area 22
+   Labels: (Nearest gray within +/-5mm)
+     3224mm Right Cerebrum.Temporal Lobe.Superior Temporal Gyrus.Gray Matter.Brodmann area 22
+     1832mm Right Cerebrum.Temporal Lobe.Middle Temporal Gyrus.Gray Matter.Brodmann area 22
+     1248mm Right Cerebrum.Temporal Lobe.Middle Temporal Gyrus.Gray Matter.Brodmann area 21
+     1120mm Right Cerebrum.Temporal Lobe.Superior Temporal Gyrus.Gray Matter.Brodmann area 39
+     1088mm Right Cerebrum.Temporal Lobe.Superior Temporal Gyrus.Gray Matter.Brodmann area 13
+     1024mm Right Cerebrum.Temporal Lobe.Middle Temporal Gyrus.Gray Matter.Brodmann area 39
+     712mm No Gray Matter found
+     624mm Right Cerebrum.Temporal Lobe.Superior Temporal Gyrus.Gray Matter.Brodmann area 41
+     616mm Right Cerebrum.Temporal Lobe.Middle Temporal Gyrus.Gray Matter.Brodmann area 37
+     368mm Right Cerebrum.Sub-lobar.Insula.Gray Matter.Brodmann area 13
+     368mm Right Cerebrum.Temporal Lobe.Supramarginal Gyrus.Gray Matter.Brodmann area 40
+     240mm Right Cerebrum.Temporal Lobe.Middle Temporal Gyrus.Gray Matter.*
+     136mm Right Cerebrum.Temporal Lobe.Inferior Temporal Gyrus.Gray Matter.Brodmann area 37
+     104mm Right Cerebrum.Temporal Lobe.Inferior Temporal Gyrus.Gray Matter.Brodmann area 19
+     96mm Right Cerebrum.Temporal Lobe.Superior Temporal Gyrus.Gray Matter.Brodmann area 42
+     48mm Right Cerebrum.Temporal Lobe.Sub-Gyral.Gray Matter.Brodmann area 37
+     40mm Right Cerebrum.Occipital Lobe.Middle Temporal Gyrus.Gray Matter.Brodmann area 19
+     40mm Right Cerebrum.Parietal Lobe.Inferior Parietal Lobule.Gray Matter.Brodmann area 40
+     24mm Right Cerebrum.Limbic Lobe.Parahippocampal Gyrus.Gray Matter.Brodmann area 19
+     16mm Right Cerebrum.Occipital Lobe.Middle Occipital Gyrus.Gray Matter.Brodmann area 19
+
+ #6: 12168 mm^3 from (32,-84,-30) to (60,-56,-2) centered at (45.8,-69.9,-15.9)
+   Extrema: (Labels are within +/-5mm)
+     0.009234563 at (46,-70,-16)	Right Cerebellum.Posterior Lobe.Declive.Gray Matter.*
+   Labels: (Nearest gray within +/-5mm)
+     4952mm Right Cerebellum.Posterior Lobe.Declive.Gray Matter.*
+     2160mm Right Cerebrum.Temporal Lobe.Fusiform Gyrus.Gray Matter.Brodmann area 37
+     1544mm Right Cerebrum.Occipital Lobe.Fusiform Gyrus.Gray Matter.Brodmann area 19
+     1088mm Right Cerebellum.Posterior Lobe.Tuber.Gray Matter.*
+     544mm Right Cerebrum.Occipital Lobe.Inferior Occipital Gyrus.Gray Matter.Brodmann area 19
+     344mm Right Cerebrum.Temporal Lobe.Fusiform Gyrus.Gray Matter.Brodmann area 19
+     288mm Right Cerebrum.Occipital Lobe.Middle Occipital Gyrus.Gray Matter.Brodmann area 37
+     208mm Right Cerebellum.Posterior Lobe.Uvula.Gray Matter.*
+     168mm Right Cerebrum.Occipital Lobe.Lingual Gyrus.Gray Matter.Brodmann area 18
+     160mm Right Cerebrum.Occipital Lobe.Middle Occipital Gyrus.Gray Matter.Brodmann area 19
+     152mm Right Cerebellum.Anterior Lobe.Culmen.Gray Matter.*
+     136mm Right Cerebrum.Occipital Lobe.Middle Occipital Gyrus.Gray Matter.Brodmann area 18
+     128mm Right Cerebrum.Occipital Lobe.Inferior Temporal Gyrus.Gray Matter.*
+     120mm Right Cerebrum.Occipital Lobe.Inferior Temporal Gyrus.Gray Matter.Brodmann area 37
+     72mm Right Cerebrum.Temporal Lobe.Inferior Temporal Gyrus.Gray Matter.Brodmann area 19
+     64mm Right Cerebrum.Temporal Lobe.Middle Temporal Gyrus.Gray Matter.Brodmann area 37
+     24mm No Gray Matter found
+     8mm Right Cerebrum.Temporal Lobe.Inferior Temporal Gyrus.Gray Matter.Brodmann area 20
+     8mm Right Cerebrum.Occipital Lobe.Inferior Occipital Gyrus.Gray Matter.Brodmann area 18
+
+ #7: 11112 mm^3 from (-12,-18,-36) to (16,10,-8) centered at (2.3,-4.8,-21)
+   Extrema: (Labels are within +/-5mm)
+     0.009234563 at (2,-4,-22)	*.*.*.Gray Matter.Hypothalamus
+   Labels: (Nearest gray within +/-5mm)
+     2608mm No Gray Matter found
+     1112mm *.*.*.Gray Matter.Hypothalamus
+     832mm Left Brainstem.Midbrain.*.Gray Matter.Mammillary Body
+     752mm Left Cerebrum.Sub-lobar.*.Gray Matter.Hypothalamus
+     736mm Right Cerebrum.Limbic Lobe.Parahippocampal Gyrus.Gray Matter.Brodmann area 34
+     672mm Right Cerebrum.Sub-lobar.*.Gray Matter.Hypothalamus
+     536mm Left Cerebrum.Limbic Lobe.Parahippocampal Gyrus.Gray Matter.Brodmann area 34
+     456mm Right Cerebrum.Frontal Lobe.Subcallosal Gyrus.Gray Matter.Brodmann area 34
+     440mm Right Brainstem.Midbrain.*.Gray Matter.Mammillary Body
+     440mm Left Cerebrum.Limbic Lobe.Anterior Cingulate.Gray Matter.Brodmann area 25
+     424mm Left Cerebrum.Frontal Lobe.Subcallosal Gyrus.Gray Matter.Brodmann area 25
+     312mm Right Cerebrum.Frontal Lobe.Subcallosal Gyrus.Gray Matter.Brodmann area 25
+     280mm Left Cerebrum.Frontal Lobe.Subcallosal Gyrus.Gray Matter.Brodmann area 34
+     280mm Right Brainstem.Midbrain.*.Gray Matter.Substania Nigra
+     216mm Right Cerebrum.Limbic Lobe.Anterior Cingulate.Gray Matter.Brodmann area 25
+     176mm Left Brainstem.Midbrain.*.Gray Matter.Substania Nigra
+     160mm Right Cerebrum.Limbic Lobe.Uncus.Gray Matter.Brodmann area 34
+     120mm Right Cerebrum.Sub-lobar.Lentiform Nucleus.Gray Matter.Medial Globus Pallidus
+     104mm Left Cerebrum.Limbic Lobe.Uncus.Gray Matter.Brodmann area 34
+     104mm Right Cerebrum.Frontal Lobe.Medial Frontal Gyrus.Gray Matter.Brodmann area 25
+     64mm Left Cerebrum.Sub-lobar.Lentiform Nucleus.Gray Matter.Medial Globus Pallidus
+     56mm Left Brainstem.Midbrain.*.Gray Matter.Red Nucleus
+     48mm Left Cerebrum.Frontal Lobe.Medial Frontal Gyrus.Gray Matter.Brodmann area 25
+     48mm Right Cerebrum.Limbic Lobe.Parahippocampal Gyrus.Gray Matter.Brodmann area 28
+     40mm Right Cerebrum.Sub-lobar.*.Gray Matter.*
+     32mm Left Cerebrum.Sub-lobar.*.Gray Matter.*
+     24mm Left Cerebrum.Sub-lobar.Thalamus.Gray Matter.*
+     16mm Right Brainstem.Midbrain.*.Gray Matter.Red Nucleus
+     16mm Right Brainstem.Midbrain.*.Gray Matter.Subthalamic Nucleus
+     8mm Right Cerebrum.Sub-lobar.Thalamus.Gray Matter.*
+
+
+Experiment Table:
+[ 1 ]
+[ 1 ]
+[ 1 ]
+[ 1 ]
+[ 1 ]
+[ 1 ]
+[ 1 ]
+
+Contributors to cluster #1
+1 foci from Rimrodt, Peterson, Denckla, Kaufmann, Cutting, 2010: dyslexics vs. typically developing controls, dyslexics greater 
+
+Contributors to cluster #2
+1 foci from Rimrodt, Peterson, Denckla, Kaufmann, Cutting, 2010: dyslexics vs. typically developing controls, dyslexics greater 
+
+Contributors to cluster #3
+1 foci from Rimrodt, Peterson, Denckla, Kaufmann, Cutting, 2010: dyslexics vs. typically developing controls, dyslexics greater 
+
+Contributors to cluster #4
+1 foci from Rimrodt, Peterson, Denckla, Kaufmann, Cutting, 2010: dyslexics vs. typically developing controls, dyslexics greater 
+
+Contributors to cluster #5
+1 foci from Rimrodt, Peterson, Denckla, Kaufmann, Cutting, 2010: dyslexics vs. typically developing controls, dyslexics greater 
+
+Contributors to cluster #6
+1 foci from Rimrodt, Peterson, Denckla, Kaufmann, Cutting, 2010: dyslexics vs. typically developing controls, dyslexics greater 
+
+Contributors to cluster #7
+1 foci from Rimrodt, Peterson, Denckla, Kaufmann, Cutting, 2010: dyslexics vs. typically developing controls, dyslexics greater 
