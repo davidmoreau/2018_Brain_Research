@@ -1,0 +1,36 @@
+Mask:
+Dimensions                    = 77x96x79
+Number of within-brain voxels = 264227
+Mask Size                     = Less Conservative (Larger)
+
+Foci:
+Coordinate System             = MNI
+File of foci coordinates      = Additional correlation analysis adults - positive correlations, FDR pID.txt
+Number of foci                = 26
+Number of experiments         = 4
+Total number of subjects      = 334
+
+ALE - Random Effects, Turkeltaub Non-Additive (HBM, 2012):
+File of ALE voxels            = Additional correlation analysis adults - positive correlations, FDR pID_ALE.nii
+FWHM minimum value            = 8.538401569987812
+FWHM median value             = 8.604771147707972
+FWHM maximum value            = 9.380085631017138
+Minimum ALE score             = 1.4E-45
+Maximum ALE score             = 0.018590694
+
+P Values: Eickhoff (HBM, 2009)
+File of P values              = Additional correlation analysis adults - positive correlations, FDR pID_P.nii
+Minimum P value               = 6.691699E-8
+
+Thresholding:
+Threshold Method              = False Discovery Rate, pID
+False Discovery Rate (q)      = 0.05
+Chosen P value threshold      = 1.6929753E-6
+Minimum ALE value > Threshold = 0.014821421
+Volume > Threshold            = 0 mm^3
+Recommended min. cluster size = 0 mm^3
+Chosen min. cluster size      = 100 mm^3
+Thresholded ALE image         = Additional correlation analysis adults - positive correlations, FDR pID_ALE_pID05.nii
+
+Cluster Analysis:
+No clusters found

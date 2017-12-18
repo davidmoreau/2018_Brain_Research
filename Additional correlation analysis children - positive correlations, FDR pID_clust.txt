@@ -1,0 +1,49 @@
+Mask:
+Dimensions                    = 77x96x79
+Number of within-brain voxels = 264227
+Mask Size                     = Less Conservative (Larger)
+
+Foci:
+Coordinate System             = MNI
+File of foci coordinates      = Additional correlation analysis children - positive correlations, FDR pID.txt
+Number of foci                = 16
+Number of experiments         = 5
+Total number of subjects      = 166
+
+ALE - Random Effects, Turkeltaub Non-Additive (HBM, 2012):
+File of ALE voxels            = Additional correlation analysis children - positive correlations, FDR pID_ALE.nii
+FWHM minimum value            = 8.649823034185811
+FWHM median value             = 8.95555138448401
+FWHM maximum value            = 9.574940482272122
+Minimum ALE score             = 1.4E-45
+Maximum ALE score             = 0.015473655
+
+P Values: Eickhoff (HBM, 2009)
+File of P values              = Additional correlation analysis children - positive correlations, FDR pID_P.nii
+Minimum P value               = 8.3504794E-8
+
+Thresholding:
+Threshold Method              = False Discovery Rate, pID
+False Discovery Rate (q)      = 0.05
+Chosen P value threshold      = 4.7279573E-6
+Minimum ALE value > Threshold = 0.010258579
+Volume > Threshold            = 256 mm^3
+Recommended min. cluster size = 13 mm^3
+Chosen min. cluster size      = 100 mm^3
+Thresholded ALE image         = Additional correlation analysis children - positive correlations, FDR pID_ALE_pID05.nii
+
+Cluster Analysis:
+ #1: 256 mm^3 from (-22,-10,32) to (-16,-6,38) centered at (-18.9,-8,34.9)
+   Extrema: (Labels are within +/-5mm)
+     0.015473655 at (-18,-8,34)	Left Cerebrum.Limbic Lobe.Cingulate Gyrus.Gray Matter.Brodmann area 24
+   Labels: (Nearest gray within +/-5mm)
+     176mm Left Cerebrum.Limbic Lobe.Cingulate Gyrus.Gray Matter.Brodmann area 24
+     80mm No Gray Matter found
+
+
+Experiment Table:
+[ 1 1 0 0 0 ]
+
+Contributors to cluster #1
+1 foci from Odegard et al., 2009: FA-task overlap correlation, Positive correlations 
+1 foci from Beaulieu et al., 2005: FA-Word ID correlation, Positive correlations 

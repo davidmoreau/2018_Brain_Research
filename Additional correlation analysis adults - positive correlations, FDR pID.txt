@@ -1,0 +1,38 @@
+// Reference=MNI
+// Lebel et al., 2013: FA-task overlap correlation, Positive correlations
+// Subjects=136
+-10	-14	10
+-20	42	10
+18	38	6
+26	18	13
+32	-19	-11
+-20	28	-6
+5	-38	9
+30	-18	40
+35	-42	28
+
+// Zhang et al., 2014: FA-TWORE SWE American correlation, Positive correlations
+// Subjects=92
+-3	-24	-22
+36	-5	-22
+13	22	20
+-11	24	18
+9	30	6
+
+// Zhang et al., 2014: FA-TWORE SWE Chinese correlation, Positive correlations
+// Subjects=89
+-23	-53	9
+-40	-8	-23
+-9	-3	-7
+-17	-23	-6
+-10	24	15
+-14	-23	-3
+20	-25	49
+-12	-26	-5
+27	-42	25
+21	-29	48
+-8	-21	1
+
+// Klingberg et al., 2000: FA-task overlap correlation, Positive correlations
+// Subjects=17
+-28	-18	28
