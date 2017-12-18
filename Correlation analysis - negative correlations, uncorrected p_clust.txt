@@ -1,0 +1,91 @@
+Mask:
+Dimensions                    = 77x96x79
+Number of within-brain voxels = 264227
+Mask Size                     = Less Conservative (Larger)
+
+Foci:
+Coordinate System             = MNI
+File of foci coordinates      = Correlation analysis - negative correlations, uncorrected p.txt
+Number of foci                = 2
+Number of experiments         = 2
+Total number of subjects      = 40
+
+ALE - Random Effects, Turkeltaub Non-Additive (HBM, 2012):
+File of ALE voxels            = Correlation analysis - negative correlations, uncorrected p_ALE.nii
+FWHM minimum value            = 9.137264222884284
+FWHM maximum value            = 9.380085631017138
+Minimum ALE score             = 1.4E-45
+Maximum ALE score             = 0.008335105
+
+P Values: Eickhoff (HBM, 2009)
+File of P values              = Correlation analysis - negative correlations, uncorrected p_P.nii
+Minimum P value               = 3.9383717E-6
+
+Thresholding:
+Threshold Method              = Uncorrected P value
+Chosen P value threshold      = 0.05
+Minimum ALE value > Threshold = 5.005996E-6
+Volume > Threshold            = 28928 mm^3
+Chosen min. cluster size      = 100 mm^3
+Thresholded ALE image         = Correlation analysis - negative correlations, uncorrected p_ALE_p05.nii
+
+Cluster Analysis:
+ #1: 28928 mm^3 from (-42,-50,-8) to (6,-14,36) centered at (-17.6,-31.7,13.6)
+   Extrema: (Labels are within +/-5mm)
+     0.008335105 at (-28,-28,6)	Left Cerebrum.Sub-lobar.Thalamus.Gray Matter.*
+     0.0077873124 at (-8,-35,22)	Left Cerebrum.Limbic Lobe.Posterior Cingulate.Gray Matter.Brodmann area 23
+   Labels: (Nearest gray within +/-5mm)
+     3952mm Left Cerebrum.Sub-lobar.Thalamus.Gray Matter.Pulvinar
+     2944mm Left Cerebrum.Sub-lobar.Caudate.Gray Matter.Caudate Tail
+     2568mm Left Cerebrum.Limbic Lobe.Cingulate Gyrus.Gray Matter.Brodmann area 31
+     2480mm Left Cerebrum.Sub-lobar.Thalamus.Gray Matter.*
+     2384mm Left Cerebrum.Limbic Lobe.Posterior Cingulate.Gray Matter.Brodmann area 23
+     2160mm Left Cerebrum.Limbic Lobe.Posterior Cingulate.Gray Matter.Brodmann area 29
+     1360mm Left Cerebrum.Sub-lobar.Lentiform Nucleus.Gray Matter.Putamen
+     1120mm Left Cerebrum.Sub-lobar.Insula.Gray Matter.Brodmann area 13
+     1072mm Left Cerebrum.Temporal Lobe.Sub-Gyral.Gray Matter.Hippocampus
+     992mm No Gray Matter found
+     944mm Left Cerebrum.Sub-lobar.Claustrum.Gray Matter.*
+     920mm Left Cerebrum.Temporal Lobe.Caudate.Gray Matter.Caudate Tail
+     888mm Left Cerebrum.Limbic Lobe.Cingulate Gyrus.Gray Matter.Brodmann area 23
+     616mm Left Cerebrum.Temporal Lobe.Transverse Temporal Gyrus.Gray Matter.Brodmann area 41
+     536mm Left Cerebrum.Limbic Lobe.Parahippocampal Gyrus.Gray Matter.Brodmann area 30
+     520mm Left Cerebrum.Limbic Lobe.Parahippocampal Gyrus.Gray Matter.Brodmann area 27
+     416mm Right Cerebrum.Limbic Lobe.Posterior Cingulate.Gray Matter.Brodmann area 23
+     408mm Left Cerebrum.Sub-lobar.Thalamus.Gray Matter.Ventral Posterior Lateral Nucleus
+     400mm Left Cerebrum.Limbic Lobe.Posterior Cingulate.Gray Matter.Brodmann area 30
+     296mm Left Cerebrum.Temporal Lobe.Superior Temporal Gyrus.Gray Matter.Brodmann area 41
+     264mm Left Cerebrum.Sub-lobar.Lentiform Nucleus.Gray Matter.Lateral Globus Pallidus
+     208mm Right Cerebrum.Limbic Lobe.Posterior Cingulate.Gray Matter.Brodmann area 29
+     176mm Left Cerebrum.Sub-lobar.*.Gray Matter.Lateral Geniculum Body
+     176mm Left Cerebrum.Sub-lobar.Thalamus.Gray Matter.Lateral Posterior Nucleus
+     144mm Left Cerebrum.Sub-lobar.Thalamus.Gray Matter.Ventral Posterior Medial Nucleus
+     144mm Left Cerebrum.Sub-lobar.Caudate.Gray Matter.Caudate Body
+     120mm Left Cerebrum.Temporal Lobe.Superior Temporal Gyrus.Gray Matter.Brodmann area 13
+     104mm Left Cerebrum.Sub-lobar.Lentiform Nucleus.Gray Matter.*
+     88mm Right Cerebrum.Limbic Lobe.Cingulate Gyrus.Gray Matter.Brodmann area 31
+     72mm Left Cerebrum.Limbic Lobe.Parahippocampal Gyrus.Gray Matter.Brodmann area 28
+     72mm Left Cerebrum.Parietal Lobe.Precuneus.Gray Matter.Brodmann area 31
+     64mm Left Brainstem.Midbrain.*.Gray Matter.Medial Geniculum Body
+     56mm Left Cerebrum.Limbic Lobe.Parahippocampal Gyrus.Gray Matter.Hippocampus
+     40mm Left Cerebrum.Temporal Lobe.Sub-Gyral.Gray Matter.*
+     40mm Right Cerebrum.Limbic Lobe.Cingulate Gyrus.Gray Matter.Brodmann area 23
+     32mm Left Cerebrum.Limbic Lobe.Posterior Cingulate.Gray Matter.Brodmann area 31
+     24mm Left Cerebrum.Limbic Lobe.Parahippocampal Gyrus.Gray Matter.*
+     24mm Left Cerebrum.Sub-lobar.Transverse Temporal Gyrus.Gray Matter.Brodmann area 41
+     24mm Right Cerebrum.Sub-lobar.Thalamus.Gray Matter.Pulvinar
+     24mm Right Cerebrum.Limbic Lobe.Posterior Cingulate.Gray Matter.Brodmann area 30
+     16mm Left Cerebrum.Limbic Lobe.Sub-Gyral.Gray Matter.Hippocampus
+     8mm Left Brainstem.Midbrain.Thalamus.Gray Matter.Medial Geniculum Body
+     8mm Left Cerebrum.Sub-lobar.Caudate.Gray Matter.*
+     8mm Left Cerebrum.Temporal Lobe.Superior Temporal Gyrus.Gray Matter.Brodmann area 22
+     8mm Left Cerebrum.Sub-lobar.Insula.Gray Matter.Brodmann area 41
+     8mm Right Cerebrum.Sub-lobar.Thalamus.Gray Matter.*
+
+
+Experiment Table:
+[ 1 1 ]
+
+Contributors to cluster #1
+1 foci from Odegard et al., 2009: FA-task overlap correlation, Negative correlations 
+1 foci from Nagy et al., 2004: FA-reading task correlation, Negative correlations 

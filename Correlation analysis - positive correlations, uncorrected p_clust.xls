@@ -1,0 +1,37 @@
+Cluster #	Volume (mm^3)	Weighted Center (x,y,z)			Extrema Value	x	y	z	Label
+1	17696	-21.9	-11.2	33	0.015478318	-18	-8	34	Left Cerebrum.Limbic Lobe.Cingulate Gyrus.Gray Matter.Brodmann area 24
+					0.01356399	-28	-16	26	Left Cerebrum.Sub-lobar.Insula.Gray Matter.Brodmann area 13
+					0.010248792	-16	12	34	Left Cerebrum.Limbic Lobe.Cingulate Gyrus.Gray Matter.Brodmann area 32
+					0.009979409	-22	-18	36	Left Cerebrum.Limbic Lobe.Cingulate Gyrus.Gray Matter.Brodmann area 31
+					0.00782307	-14	-8	46	Left Cerebrum.Limbic Lobe.Cingulate Gyrus.Gray Matter.Brodmann area 31
+2	10616	16.5	27	11.2	0.010700151	18	38	6	Right Cerebrum.Limbic Lobe.Anterior Cingulate.Gray Matter.Brodmann area 32
+					0.010260232	26	18	14	Right Cerebrum.Sub-lobar.Claustrum.Gray Matter.*
+					0.010130377	10	30	6	Right Cerebrum.Limbic Lobe.Anterior Cingulate.Gray Matter.Brodmann area 24
+					0.010052992	14	22	20	Right Cerebrum.Limbic Lobe.Cingulate Gyrus.Gray Matter.Brodmann area 32
+3	9624	24.8	-20.7	39.1	0.010657542	30	-18	40	Right Cerebrum.Limbic Lobe.Cingulate Gyrus.Gray Matter.Brodmann area 24
+					0.009664648	20	-24	48	Right Cerebrum.Limbic Lobe.Cingulate Gyrus.Gray Matter.Brodmann area 31
+					0.009661209	22	-28	48	Right Cerebrum.Limbic Lobe.Cingulate Gyrus.Gray Matter.Brodmann area 31
+					0.009285999	26	-14	24	Right Cerebrum.Sub-lobar.Caudate.Gray Matter.Caudate Body
+4	8632	-11.6	-20.5	.7	0.010723425	-10	-14	10	Left Cerebrum.Sub-lobar.Thalamus.Gray Matter.Medial Dorsal Nucleus
+					0.010027994	-12	-26	-6	Left Brainstem.Midbrain.*.Gray Matter.Medial Geniculum Body
+					0.009861533	-8	-20	2	Left Cerebrum.Sub-lobar.Thalamus.Gray Matter.*
+					0.009661506	-14	-22	-2	Left Cerebrum.Sub-lobar.Thalamus.Gray Matter.Ventral Posterior Medial Nucleus
+5	6768	-14.8	24	17	0.018599521	-10	24	16	Left Cerebrum.Limbic Lobe.Anterior Cingulate.Gray Matter.Brodmann area 24
+					0.009308879	-24	24	18	No Gray Matter found
+6	5720	-47	-4	-22.5	0.0100291055	-40	-8	-22	Left Cerebrum.Temporal Lobe.Sub-Gyral.Gray Matter.Brodmann area 20
+					0.009235151	-54	0	-22	Left Cerebrum.Temporal Lobe.Middle Temporal Gyrus.Gray Matter.Brodmann area 21
+7	5600	34	-12.1	-16.4	0.01004936	36	-6	-22	Right Cerebrum.Limbic Lobe.Parahippocampal Gyrus.Gray Matter.Amygdala
+					0.009875091	32	-18	-12	Right Cerebrum.Sub-lobar.Lentiform Nucleus.Gray Matter.Putamen
+8	4840	31	-42	26.5	0.011431893	34	-42	28	No Gray Matter found
+					0.011065371	28	-42	26	Right Cerebrum.Limbic Lobe.Cingulate Gyrus.Gray Matter.Brodmann area 31
+9	2920	60	8	10	0.009234563	60	8	10	Right Cerebrum.Frontal Lobe.Inferior Frontal Gyrus.Gray Matter.Brodmann area 44
+10	2920	54	26	20	0.009234563	54	26	20	Right Cerebrum.Frontal Lobe.Middle Frontal Gyrus.Gray Matter.Brodmann area 46
+11	2920	-54	4	30	0.009234563	-54	4	30	Left Cerebrum.Frontal Lobe.Precentral Gyrus.Gray Matter.Brodmann area 6
+12	2848	5	-38	9	0.009874855	5	-38	9	No Gray Matter found
+13	2800	-32	42	-19.9	0.009234563	-32	42	-20	Left Cerebrum.Frontal Lobe.Middle Frontal Gyrus.Gray Matter.Brodmann area 11
+14	2736	-20	42	10	0.010655258	-20	42	10	Left Cerebrum.Limbic Lobe.Anterior Cingulate.Gray Matter.Brodmann area 32
+15	2728	-20	28	-6	0.0106552495	-20	28	-6	Left Cerebrum.Sub-lobar.Caudate.Gray Matter.Caudate Head
+16	2704	-3	-24	-22	0.010049283	-4	-24	-22	No Gray Matter found
+17	2464	-9	-3	-7	0.009304394	-10	-4	-6	Left Cerebrum.Sub-lobar.Lentiform Nucleus.Gray Matter.*
+18	2432	-23	-53	9	0.00930438	-23	-53	9	Left Cerebrum.Limbic Lobe.Parahippocampal Gyrus.Gray Matter.Brodmann area 30
+19	1792	-5.2	-93.3	-18.7	0.009234563	-4	-94	-20	Left Cerebellum.*.*.Gray Matter.*

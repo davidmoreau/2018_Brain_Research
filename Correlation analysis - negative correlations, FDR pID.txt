@@ -1,0 +1,8 @@
+// Reference=MNI
+// Odegard et al., 2009: FA-task overlap correlation, Negative correlations
+// Subjects=17
+-8	-35	22
+
+// Nagy et al., 2004: FA-reading task correlation, Negative correlations
+// Subjects=23
+-27.28	-28.38	5.22

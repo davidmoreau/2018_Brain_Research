@@ -1,0 +1,466 @@
+Mask:
+Dimensions                    = 77x96x79
+Number of within-brain voxels = 264227
+Mask Size                     = Less Conservative (Larger)
+
+Foci:
+Coordinate System             = MNI
+File of foci coordinates      = Correlation analysis - positive correlations, uncorrected p.txt
+Number of foci                = 42
+Number of experiments         = 9
+Total number of subjects      = 500
+
+ALE - Random Effects, Turkeltaub Non-Additive (HBM, 2012):
+File of ALE voxels            = Correlation analysis - positive correlations, uncorrected p_ALE.nii
+FWHM minimum value            = 8.538401569987812
+FWHM median value             = 8.939044780271026
+FWHM maximum value            = 9.574940482272122
+Minimum ALE score             = 1.4E-45
+Maximum ALE score             = 0.018599521
+
+P Values: Eickhoff (HBM, 2009)
+File of P values              = Correlation analysis - positive correlations, uncorrected p_P.nii
+Minimum P value               = 1.2183915E-7
+
+Thresholding:
+Threshold Method              = Uncorrected P value
+Chosen P value threshold      = 0.05
+Minimum ALE value > Threshold = 6.3512236E-4
+Volume > Threshold            = 98760 mm^3
+Chosen min. cluster size      = 100 mm^3
+Thresholded ALE image         = Correlation analysis - positive correlations, uncorrected p_ALE_p05.nii
+
+Cluster Analysis:
+  #1: 17696 mm^3 from (-36,-34,16) to (-6,20,54) centered at (-21.9,-11.2,33)
+    Extrema: (Labels are within +/-5mm)
+      0.015478318 at (-18,-8,34)	Left Cerebrum.Limbic Lobe.Cingulate Gyrus.Gray Matter.Brodmann area 24
+      0.01356399 at (-28,-16,26)	Left Cerebrum.Sub-lobar.Insula.Gray Matter.Brodmann area 13
+      0.010248792 at (-16,12,34)	Left Cerebrum.Limbic Lobe.Cingulate Gyrus.Gray Matter.Brodmann area 32
+      0.009979409 at (-22,-18,36)	Left Cerebrum.Limbic Lobe.Cingulate Gyrus.Gray Matter.Brodmann area 31
+      0.00782307 at (-14,-8,46)	Left Cerebrum.Limbic Lobe.Cingulate Gyrus.Gray Matter.Brodmann area 31
+    Labels: (Nearest gray within +/-5mm)
+      4672mm Left Cerebrum.Limbic Lobe.Cingulate Gyrus.Gray Matter.Brodmann area 24
+      3496mm No Gray Matter found
+      2288mm Left Cerebrum.Sub-lobar.Insula.Gray Matter.Brodmann area 13
+      1968mm Left Cerebrum.Sub-lobar.Caudate.Gray Matter.Caudate Body
+      1216mm Left Cerebrum.Limbic Lobe.Cingulate Gyrus.Gray Matter.Brodmann area 32
+      1088mm Left Cerebrum.Limbic Lobe.Cingulate Gyrus.Gray Matter.Brodmann area 31
+      632mm Left Cerebrum.Frontal Lobe.Medial Frontal Gyrus.Gray Matter.Brodmann area 6
+      536mm Left Cerebrum.Sub-lobar.Claustrum.Gray Matter.*
+      440mm Left Cerebrum.Frontal Lobe.Middle Frontal Gyrus.Gray Matter.Brodmann area 6
+      288mm Left Cerebrum.Sub-lobar.Caudate.Gray Matter.Caudate Tail
+      264mm Left Cerebrum.Parietal Lobe.Postcentral Gyrus.Gray Matter.Brodmann area 2
+      184mm Left Cerebrum.Frontal Lobe.Cingulate Gyrus.Gray Matter.Brodmann area 32
+      152mm Left Cerebrum.Frontal Lobe.Paracentral Lobule.Gray Matter.Brodmann area 31
+      136mm Left Cerebrum.Frontal Lobe.Precentral Gyrus.Gray Matter.Brodmann area 6
+      72mm Left Cerebrum.Sub-lobar.Thalamus.Gray Matter.Lateral Posterior Nucleus
+      72mm Left Cerebrum.Sub-lobar.Thalamus.Gray Matter.*
+      72mm Left Cerebrum.Frontal Lobe.Precentral Gyrus.Gray Matter.Brodmann area 4
+      24mm Left Cerebrum.Frontal Lobe.Middle Frontal Gyrus.Gray Matter.Brodmann area 8
+      24mm Left Cerebrum.Limbic Lobe.Sub-Gyral.Gray Matter.Brodmann area 24
+      24mm Left Cerebrum.Limbic Lobe.Paracentral Lobule.Gray Matter.Brodmann area 31
+      16mm Left Cerebrum.Sub-lobar.Thalamus.Gray Matter.Ventral Lateral Nucleus
+      8mm Left Cerebrum.Sub-lobar.Lentiform Nucleus.Gray Matter.Putamen
+      8mm Left Cerebrum.Limbic Lobe.Cingulate Gyrus.Gray Matter.Brodmann area 23
+      8mm Left Cerebrum.Frontal Lobe.Medial Frontal Gyrus.Gray Matter.Brodmann area 32
+      8mm Left Cerebrum.Parietal Lobe.Postcentral Gyrus.Gray Matter.Brodmann area 3
+
+  #2: 10616 mm^3 from (2,10,-2) to (34,46,28) centered at (16.5,27,11.2)
+    Extrema: (Labels are within +/-5mm)
+      0.010700151 at (18,38,6)	Right Cerebrum.Limbic Lobe.Anterior Cingulate.Gray Matter.Brodmann area 32
+      0.010260232 at (26,18,14)	Right Cerebrum.Sub-lobar.Claustrum.Gray Matter.*
+      0.010130377 at (10,30,6)	Right Cerebrum.Limbic Lobe.Anterior Cingulate.Gray Matter.Brodmann area 24
+      0.010052992 at (14,22,20)	Right Cerebrum.Limbic Lobe.Cingulate Gyrus.Gray Matter.Brodmann area 32
+    Labels: (Nearest gray within +/-5mm)
+      2272mm Right Cerebrum.Limbic Lobe.Anterior Cingulate.Gray Matter.Brodmann area 32
+      2224mm Right Cerebrum.Limbic Lobe.Anterior Cingulate.Gray Matter.Brodmann area 24
+      2072mm Right Cerebrum.Sub-lobar.Caudate.Gray Matter.Caudate Body
+      888mm Right Cerebrum.Sub-lobar.Claustrum.Gray Matter.*
+      688mm No Gray Matter found
+      560mm Right Cerebrum.Limbic Lobe.Cingulate Gyrus.Gray Matter.Brodmann area 32
+      472mm Right Cerebrum.Limbic Lobe.Anterior Cingulate.Gray Matter.Brodmann area 33
+      400mm Right Cerebrum.Sub-lobar.Lentiform Nucleus.Gray Matter.Putamen
+      368mm Right Cerebrum.Limbic Lobe.Cingulate Gyrus.Gray Matter.Brodmann area 24
+      224mm Right Cerebrum.Sub-lobar.Caudate.Gray Matter.Caudate Head
+      168mm Left Cerebrum.Limbic Lobe.Anterior Cingulate.Gray Matter.Brodmann area 24
+      96mm Right Cerebrum.Frontal Lobe.Medial Frontal Gyrus.Gray Matter.Brodmann area 9
+      72mm Right Cerebrum.Sub-lobar.Insula.Gray Matter.Brodmann area 13
+      64mm Right Cerebrum.Limbic Lobe.Anterior Cingulate.Gray Matter.*
+      48mm Right Cerebrum.Frontal Lobe.Medial Frontal Gyrus.Gray Matter.Brodmann area 10
+
+  #3: 9624 mm^3 from (12,-36,16) to (38,-6,56) centered at (24.8,-20.7,39.1)
+    Extrema: (Labels are within +/-5mm)
+      0.010657542 at (30,-18,40)	Right Cerebrum.Limbic Lobe.Cingulate Gyrus.Gray Matter.Brodmann area 24
+      0.009664648 at (20,-24,48)	Right Cerebrum.Limbic Lobe.Cingulate Gyrus.Gray Matter.Brodmann area 31
+      0.009661209 at (22,-28,48)	Right Cerebrum.Limbic Lobe.Cingulate Gyrus.Gray Matter.Brodmann area 31
+      0.009285999 at (26,-14,24)	Right Cerebrum.Sub-lobar.Caudate.Gray Matter.Caudate Body
+    Labels: (Nearest gray within +/-5mm)
+      2528mm Right Cerebrum.Limbic Lobe.Cingulate Gyrus.Gray Matter.Brodmann area 31
+      1584mm Right Cerebrum.Sub-lobar.Caudate.Gray Matter.Caudate Body
+      1056mm No Gray Matter found
+      984mm Right Cerebrum.Parietal Lobe.Postcentral Gyrus.Gray Matter.Brodmann area 3
+      824mm Right Cerebrum.Frontal Lobe.Paracentral Lobule.Gray Matter.Brodmann area 5
+      672mm Right Cerebrum.Limbic Lobe.Cingulate Gyrus.Gray Matter.Brodmann area 24
+      528mm Right Cerebrum.Frontal Lobe.Precentral Gyrus.Gray Matter.Brodmann area 4
+      344mm Right Cerebrum.Sub-lobar.Thalamus.Gray Matter.*
+      248mm Right Cerebrum.Sub-lobar.Claustrum.Gray Matter.*
+      248mm Right Cerebrum.Frontal Lobe.Paracentral Lobule.Gray Matter.Brodmann area 6
+      144mm Right Cerebrum.Parietal Lobe.Postcentral Gyrus.Gray Matter.Brodmann area 2
+      128mm Right Cerebrum.Sub-lobar.Insula.Gray Matter.Brodmann area 13
+      64mm Right Cerebrum.Frontal Lobe.Medial Frontal Gyrus.Gray Matter.Brodmann area 6
+      48mm Right Cerebrum.Sub-lobar.Caudate.Gray Matter.Caudate Tail
+      48mm Right Cerebrum.Frontal Lobe.Paracentral Lobule.Gray Matter.Brodmann area 31
+      40mm Right Cerebrum.Frontal Lobe.Middle Frontal Gyrus.Gray Matter.Brodmann area 6
+      32mm Right Cerebrum.Frontal Lobe.Sub-Gyral.Gray Matter.Brodmann area 4
+      24mm Right Cerebrum.Frontal Lobe.Postcentral Gyrus.Gray Matter.Brodmann area 3
+      16mm Right Cerebrum.Sub-lobar.Lentiform Nucleus.Gray Matter.Putamen
+      16mm Right Cerebrum.Sub-lobar.Thalamus.Gray Matter.Lateral Posterior Nucleus
+      16mm Right Cerebrum.Sub-lobar.Thalamus.Gray Matter.Ventral Lateral Nucleus
+      16mm Right Cerebrum.Parietal Lobe.Sub-Gyral.Gray Matter.Brodmann area 31
+      8mm Right Cerebrum.Limbic Lobe.Sub-Gyral.Gray Matter.Brodmann area 24
+      8mm Right Cerebrum.Parietal Lobe.Precuneus.Gray Matter.Brodmann area 7
+
+  #4: 8632 mm^3 from (-24,-34,-14) to (0,-6,18) centered at (-11.6,-20.5,.7)
+    Extrema: (Labels are within +/-5mm)
+      0.010723425 at (-10,-14,10)	Left Cerebrum.Sub-lobar.Thalamus.Gray Matter.Medial Dorsal Nucleus
+      0.010027994 at (-12,-26,-6)	Left Brainstem.Midbrain.*.Gray Matter.Medial Geniculum Body
+      0.009861533 at (-8,-20,2)	Left Cerebrum.Sub-lobar.Thalamus.Gray Matter.*
+      0.009661506 at (-14,-22,-2)	Left Cerebrum.Sub-lobar.Thalamus.Gray Matter.Ventral Posterior Medial Nucleus
+    Labels: (Nearest gray within +/-5mm)
+      2584mm Left Cerebrum.Sub-lobar.Thalamus.Gray Matter.*
+      1040mm Left Cerebrum.Sub-lobar.Thalamus.Gray Matter.Medial Dorsal Nucleus
+      664mm Left Brainstem.Midbrain.*.Gray Matter.Substania Nigra
+      656mm Left Cerebrum.Sub-lobar.Thalamus.Gray Matter.Ventral Lateral Nucleus
+      624mm Left Cerebrum.Sub-lobar.Thalamus.Gray Matter.Pulvinar
+      376mm Left Brainstem.Midbrain.*.Gray Matter.Red Nucleus
+      312mm Left Cerebrum.Sub-lobar.Thalamus.Gray Matter.Mammillary Body
+      304mm Left Cerebrum.Limbic Lobe.Parahippocampal Gyrus.Gray Matter.Brodmann area 28
+      296mm Left Cerebrum.Sub-lobar.Thalamus.Gray Matter.Ventral Posterior Lateral Nucleus
+      272mm Left Cerebrum.Sub-lobar.Thalamus.Gray Matter.Ventral Posterior Medial Nucleus
+      200mm Left Cerebrum.Sub-lobar.Thalamus.Gray Matter.Anterior Nucleus
+      176mm Left Cerebrum.Limbic Lobe.Parahippocampal Gyrus.Gray Matter.Brodmann area 35
+      176mm Left Brainstem.Midbrain.Thalamus.Gray Matter.Medial Geniculum Body
+      128mm Left Cerebrum.Sub-lobar.*.Gray Matter.Lateral Geniculum Body
+      120mm Left Brainstem.Midbrain.*.Gray Matter.Medial Geniculum Body
+      96mm Left Brainstem.Midbrain.*.Gray Matter.Subthalamic Nucleus
+      88mm Left Cerebrum.Limbic Lobe.Parahippocampal Gyrus.Gray Matter.Brodmann area 27
+      80mm Left Cerebellum.Anterior Lobe.Culmen.Gray Matter.*
+      80mm Left Cerebrum.Sub-lobar.Thalamus.Gray Matter.Lateral Posterior Nucleus
+      72mm Left Cerebrum.Sub-lobar.Lentiform Nucleus.Gray Matter.Lateral Globus Pallidus
+      72mm Left Cerebrum.Sub-lobar.Thalamus.Gray Matter.Lateral Dorsal Nucleus
+      64mm Left Cerebrum.Limbic Lobe.Parahippocampal Gyrus.Gray Matter.Brodmann area 30
+      56mm Left Cerebrum.Sub-lobar.Thalamus.Gray Matter.Midline Nucleus
+      48mm Left Cerebrum.Sub-lobar.Lentiform Nucleus.Gray Matter.Medial Globus Pallidus
+      24mm Left Cerebrum.Sub-lobar.Thalamus.Gray Matter.Ventral Anterior Nucleus
+      8mm Left Cerebrum.Limbic Lobe.Sub-Gyral.Gray Matter.Brodmann area 28
+      8mm Left Cerebrum.Sub-lobar.Lentiform Nucleus.Gray Matter.*
+      8mm Left Cerebrum.Sub-lobar.Caudate.Gray Matter.Caudate Body
+
+  #5: 6768 mm^3 from (-32,16,8) to (-2,32,26) centered at (-14.8,24,17)
+    Extrema: (Labels are within +/-5mm)
+      0.018599521 at (-10,24,16)	Left Cerebrum.Limbic Lobe.Anterior Cingulate.Gray Matter.Brodmann area 24
+      0.009308879 at (-24,24,18)	No Gray Matter found
+    Labels: (Nearest gray within +/-5mm)
+      1664mm Left Cerebrum.Sub-lobar.Caudate.Gray Matter.Caudate Body
+      1560mm No Gray Matter found
+      792mm Left Cerebrum.Limbic Lobe.Anterior Cingulate.Gray Matter.Brodmann area 24
+      688mm Left Cerebrum.Limbic Lobe.Anterior Cingulate.Gray Matter.Brodmann area 32
+      664mm Left Cerebrum.Limbic Lobe.Cingulate Gyrus.Gray Matter.Brodmann area 32
+      464mm Left Cerebrum.Limbic Lobe.Anterior Cingulate.Gray Matter.Brodmann area 33
+      440mm Left Cerebrum.Sub-lobar.Claustrum.Gray Matter.*
+      152mm Left Cerebrum.Limbic Lobe.Cingulate Gyrus.Gray Matter.Brodmann area 24
+      128mm Left Cerebrum.Frontal Lobe.Middle Frontal Gyrus.Gray Matter.Brodmann area 9
+      120mm Left Cerebrum.Frontal Lobe.Medial Frontal Gyrus.Gray Matter.Brodmann area 9
+      96mm Left Cerebrum.Sub-lobar.Insula.Gray Matter.Brodmann area 13
+
+  #6: 5720 mm^3 from (-62,-16,-30) to (-32,8,-14) centered at (-47,-4,-22.5)
+    Extrema: (Labels are within +/-5mm)
+      0.0100291055 at (-40,-8,-22)	Left Cerebrum.Temporal Lobe.Sub-Gyral.Gray Matter.Brodmann area 20
+      0.009235151 at (-54,0,-22)	Left Cerebrum.Temporal Lobe.Middle Temporal Gyrus.Gray Matter.Brodmann area 21
+    Labels: (Nearest gray within +/-5mm)
+      2456mm Left Cerebrum.Temporal Lobe.Middle Temporal Gyrus.Gray Matter.Brodmann area 21
+      792mm Left Cerebrum.Temporal Lobe.Superior Temporal Gyrus.Gray Matter.Brodmann area 38
+      584mm Left Cerebrum.Temporal Lobe.Sub-Gyral.Gray Matter.Brodmann area 20
+      560mm Left Cerebrum.Temporal Lobe.Fusiform Gyrus.Gray Matter.Brodmann area 20
+      472mm Left Cerebrum.Temporal Lobe.Sub-Gyral.Gray Matter.Brodmann area 21
+      400mm Left Cerebrum.Limbic Lobe.Parahippocampal Gyrus.Gray Matter.Amygdala
+      232mm Left Cerebrum.Limbic Lobe.Parahippocampal Gyrus.Gray Matter.Hippocampus
+      72mm No Gray Matter found
+      56mm Left Cerebrum.Temporal Lobe.Middle Temporal Gyrus.Gray Matter.Brodmann area 38
+      32mm Left Cerebrum.Temporal Lobe.Inferior Temporal Gyrus.Gray Matter.Brodmann area 20
+      32mm Left Cerebrum.Temporal Lobe.Superior Temporal Gyrus.Gray Matter.Brodmann area 21
+      16mm Left Cerebrum.Temporal Lobe.Superior Temporal Gyrus.Gray Matter.Brodmann area 13
+      8mm Left Cerebrum.Limbic Lobe.Uncus.Gray Matter.Brodmann area 20
+      8mm Left Cerebrum.Temporal Lobe.Sub-Gyral.Gray Matter.Brodmann area 13
+
+  #7: 5600 mm^3 from (24,-26,-30) to (44,2,-4) centered at (34,-12.1,-16.4)
+    Extrema: (Labels are within +/-5mm)
+      0.01004936 at (36,-6,-22)	Right Cerebrum.Limbic Lobe.Parahippocampal Gyrus.Gray Matter.Amygdala
+      0.009875091 at (32,-18,-12)	Right Cerebrum.Sub-lobar.Lentiform Nucleus.Gray Matter.Putamen
+    Labels: (Nearest gray within +/-5mm)
+      1384mm Right Cerebrum.Limbic Lobe.Parahippocampal Gyrus.Gray Matter.Amygdala
+      936mm Right Cerebrum.Limbic Lobe.Parahippocampal Gyrus.Gray Matter.Hippocampus
+      840mm Right Cerebrum.Sub-lobar.Lentiform Nucleus.Gray Matter.Putamen
+      432mm Right Cerebrum.Sub-lobar.Lentiform Nucleus.Gray Matter.Lateral Globus Pallidus
+      320mm Right Cerebrum.Temporal Lobe.Superior Temporal Gyrus.Gray Matter.Brodmann area 38
+      320mm Right Cerebrum.Limbic Lobe.Parahippocampal Gyrus.Gray Matter.Brodmann area 28
+      312mm Right Cerebrum.Temporal Lobe.Sub-Gyral.Gray Matter.Hippocampus
+      192mm Right Cerebrum.Temporal Lobe.Sub-Gyral.Gray Matter.Brodmann area 21
+      192mm Right Cerebrum.Sub-lobar.Claustrum.Gray Matter.*
+      120mm Right Cerebrum.Limbic Lobe.Uncus.Gray Matter.Amygdala
+      104mm Right Cerebrum.Temporal Lobe.Caudate.Gray Matter.Caudate Tail
+      88mm No Gray Matter found
+      88mm Right Cerebrum.Temporal Lobe.Sub-Gyral.Gray Matter.Brodmann area 20
+      72mm Right Cerebrum.Temporal Lobe.Fusiform Gyrus.Gray Matter.Brodmann area 20
+      56mm Right Cerebrum.Limbic Lobe.Parahippocampal Gyrus.Gray Matter.Brodmann area 34
+      48mm Right Cerebrum.Limbic Lobe.Parahippocampal Gyrus.Gray Matter.Brodmann area 35
+      40mm Right Cerebrum.Sub-lobar.*.Gray Matter.Lateral Geniculum Body
+      32mm Right Cerebrum.Sub-lobar.*.Gray Matter.Amygdala
+      16mm Right Cerebrum.Sub-lobar.Caudate.Gray Matter.Caudate Tail
+      8mm Right Cerebrum.Sub-lobar.Lentiform Nucleus.Gray Matter.Medial Globus Pallidus
+
+  #8: 4840 mm^3 from (20,-50,18) to (42,-34,36) centered at (31,-42,26.5)
+    Extrema: (Labels are within +/-5mm)
+      0.011431893 at (34,-42,28)	No Gray Matter found
+      0.011065371 at (28,-42,26)	Right Cerebrum.Limbic Lobe.Cingulate Gyrus.Gray Matter.Brodmann area 31
+    Labels: (Nearest gray within +/-5mm)
+      1472mm No Gray Matter found
+      1464mm Right Cerebrum.Limbic Lobe.Cingulate Gyrus.Gray Matter.Brodmann area 31
+      912mm Right Cerebrum.Sub-lobar.Insula.Gray Matter.Brodmann area 13
+      480mm Right Cerebrum.Sub-lobar.Caudate.Gray Matter.Caudate Tail
+      144mm Right Cerebrum.Parietal Lobe.Sub-Gyral.Gray Matter.Brodmann area 40
+      136mm Right Cerebrum.Parietal Lobe.Supramarginal Gyrus.Gray Matter.Brodmann area 40
+      80mm Right Cerebrum.Limbic Lobe.Sub-Gyral.Gray Matter.Brodmann area 31
+      72mm Right Cerebrum.Temporal Lobe.Superior Temporal Gyrus.Gray Matter.Brodmann area 22
+      40mm Right Cerebrum.Temporal Lobe.Middle Temporal Gyrus.Gray Matter.Brodmann area 39
+      24mm Right Cerebrum.Temporal Lobe.Superior Temporal Gyrus.Gray Matter.Brodmann area 39
+      16mm Right Cerebrum.Parietal Lobe.Inferior Parietal Lobule.Gray Matter.Brodmann area 40
+
+  #9: 2920 mm^3 from (52,0,2) to (68,16,18) centered at (60,8,10)
+    Extrema: (Labels are within +/-5mm)
+      0.009234563 at (60,8,10)	Right Cerebrum.Frontal Lobe.Inferior Frontal Gyrus.Gray Matter.Brodmann area 44
+    Labels: (Nearest gray within +/-5mm)
+      1024mm Right Cerebrum.Frontal Lobe.Precentral Gyrus.Gray Matter.Brodmann area 6
+      1024mm Right Cerebrum.Frontal Lobe.Inferior Frontal Gyrus.Gray Matter.Brodmann area 44
+      776mm Right Cerebrum.Frontal Lobe.Precentral Gyrus.Gray Matter.Brodmann area 44
+      64mm Right Cerebrum.Temporal Lobe.Superior Temporal Gyrus.Gray Matter.Brodmann area 22
+      24mm Right Cerebrum.Frontal Lobe.Precentral Gyrus.Gray Matter.Brodmann area 4
+      8mm Right Cerebrum.Sub-lobar.Insula.Gray Matter.Brodmann area 13
+
+ #10: 2920 mm^3 from (46,18,12) to (62,34,28) centered at (54,26,20)
+    Extrema: (Labels are within +/-5mm)
+      0.009234563 at (54,26,20)	Right Cerebrum.Frontal Lobe.Middle Frontal Gyrus.Gray Matter.Brodmann area 46
+    Labels: (Nearest gray within +/-5mm)
+      1248mm Right Cerebrum.Frontal Lobe.Middle Frontal Gyrus.Gray Matter.Brodmann area 46
+      680mm Right Cerebrum.Frontal Lobe.Middle Frontal Gyrus.Gray Matter.Brodmann area 9
+      504mm Right Cerebrum.Frontal Lobe.Inferior Frontal Gyrus.Gray Matter.Brodmann area 9
+      440mm Right Cerebrum.Frontal Lobe.Inferior Frontal Gyrus.Gray Matter.Brodmann area 45
+      32mm Right Cerebrum.Frontal Lobe.Inferior Frontal Gyrus.Gray Matter.Brodmann area 44
+      16mm Right Cerebrum.Frontal Lobe.Inferior Frontal Gyrus.Gray Matter.Brodmann area 46
+
+ #11: 2920 mm^3 from (-62,-4,22) to (-46,12,38) centered at (-54,4,30)
+    Extrema: (Labels are within +/-5mm)
+      0.009234563 at (-54,4,30)	Left Cerebrum.Frontal Lobe.Precentral Gyrus.Gray Matter.Brodmann area 6
+    Labels: (Nearest gray within +/-5mm)
+      2168mm Left Cerebrum.Frontal Lobe.Precentral Gyrus.Gray Matter.Brodmann area 6
+      688mm Left Cerebrum.Frontal Lobe.Inferior Frontal Gyrus.Gray Matter.Brodmann area 9
+      32mm Left Cerebrum.Frontal Lobe.Inferior Frontal Gyrus.Gray Matter.Brodmann area 6
+      32mm Left Cerebrum.Frontal Lobe.Middle Frontal Gyrus.Gray Matter.Brodmann area 9
+
+ #12: 2848 mm^3 from (-2,-46,2) to (12,-30,16) centered at (5,-38,9)
+    Extrema: (Labels are within +/-5mm)
+      0.009874855 at (5,-38,9)	No Gray Matter found
+    Labels: (Nearest gray within +/-5mm)
+      712mm Right Cerebrum.Limbic Lobe.Posterior Cingulate.Gray Matter.Brodmann area 29
+      584mm Right Cerebrum.Sub-lobar.Thalamus.Gray Matter.Pulvinar
+      560mm No Gray Matter found
+      272mm Left Cerebrum.Limbic Lobe.Posterior Cingulate.Gray Matter.Brodmann area 29
+      240mm Right Cerebellum.Anterior Lobe.Culmen.Gray Matter.*
+      192mm Left Cerebellum.Anterior Lobe.Culmen.Gray Matter.*
+      192mm Right Cerebrum.Limbic Lobe.Parahippocampal Gyrus.Gray Matter.Brodmann area 30
+      56mm Right Cerebrum.Sub-lobar.Thalamus.Gray Matter.*
+      40mm Left Cerebrum.Sub-lobar.Thalamus.Gray Matter.Pulvinar
+
+ #13: 2800 mm^3 from (-40,34,-28) to (-24,50,-12) centered at (-32,42,-19.9)
+    Extrema: (Labels are within +/-5mm)
+      0.009234563 at (-32,42,-20)	Left Cerebrum.Frontal Lobe.Middle Frontal Gyrus.Gray Matter.Brodmann area 11
+    Labels: (Nearest gray within +/-5mm)
+      2184mm Left Cerebrum.Frontal Lobe.Middle Frontal Gyrus.Gray Matter.Brodmann area 11
+      360mm Left Cerebrum.Frontal Lobe.Middle Frontal Gyrus.Gray Matter.Brodmann area 47
+      128mm Left Cerebrum.Frontal Lobe.Superior Frontal Gyrus.Gray Matter.Brodmann area 11
+      120mm Left Cerebrum.Frontal Lobe.Inferior Frontal Gyrus.Gray Matter.Brodmann area 47
+      8mm Left Cerebrum.Frontal Lobe.Middle Frontal Gyrus.Gray Matter.Brodmann area 10
+
+ #14: 2736 mm^3 from (-28,34,2) to (-12,50,18) centered at (-20,42,10)
+    Extrema: (Labels are within +/-5mm)
+      0.010655258 at (-20,42,10)	Left Cerebrum.Limbic Lobe.Anterior Cingulate.Gray Matter.Brodmann area 32
+    Labels: (Nearest gray within +/-5mm)
+      1344mm Left Cerebrum.Limbic Lobe.Anterior Cingulate.Gray Matter.Brodmann area 32
+      1032mm Left Cerebrum.Frontal Lobe.Medial Frontal Gyrus.Gray Matter.Brodmann area 9
+      112mm Left Cerebrum.Frontal Lobe.Medial Frontal Gyrus.Gray Matter.Brodmann area 32
+      80mm Left Cerebrum.Frontal Lobe.Medial Frontal Gyrus.Gray Matter.Brodmann area 10
+      80mm Left Cerebrum.Frontal Lobe.Middle Frontal Gyrus.Gray Matter.Brodmann area 10
+      56mm Left Cerebrum.Frontal Lobe.Superior Frontal Gyrus.Gray Matter.Brodmann area 10
+      16mm Left Cerebrum.Limbic Lobe.Anterior Cingulate.Gray Matter.Brodmann area 9
+      16mm Left Cerebrum.Frontal Lobe.Anterior Cingulate.Gray Matter.Brodmann area 9
+
+ #15: 2728 mm^3 from (-28,20,-14) to (-12,36,2) centered at (-20,28,-6)
+    Extrema: (Labels are within +/-5mm)
+      0.0106552495 at (-20,28,-6)	Left Cerebrum.Sub-lobar.Caudate.Gray Matter.Caudate Head
+    Labels: (Nearest gray within +/-5mm)
+      1032mm Left Cerebrum.Sub-lobar.Caudate.Gray Matter.Caudate Head
+      536mm Left Cerebrum.Sub-lobar.Claustrum.Gray Matter.*
+      480mm No Gray Matter found
+      328mm Left Cerebrum.Frontal Lobe.Inferior Frontal Gyrus.Gray Matter.Brodmann area 47
+      280mm Left Cerebrum.Sub-lobar.Lentiform Nucleus.Gray Matter.Putamen
+      24mm Left Cerebrum.Sub-lobar.Insula.Gray Matter.Brodmann area 13
+      16mm Left Cerebrum.Limbic Lobe.Anterior Cingulate.Gray Matter.Brodmann area 32
+      16mm Left Cerebrum.Limbic Lobe.Anterior Cingulate.Gray Matter.Brodmann area 10
+      8mm Left Cerebrum.Sub-lobar.Extra-Nuclear.Gray Matter.Brodmann area 13
+      8mm Left Cerebrum.Frontal Lobe.Medial Frontal Gyrus.Gray Matter.Brodmann area 10
+
+ #16: 2704 mm^3 from (-10,-32,-30) to (4,-16,-14) centered at (-3,-24,-22)
+    Extrema: (Labels are within +/-5mm)
+      0.010049283 at (-4,-24,-22)	No Gray Matter found
+    Labels: (Nearest gray within +/-5mm)
+      1688mm No Gray Matter found
+      512mm Left Brainstem.Midbrain.*.Gray Matter.Red Nucleus
+      232mm Left Cerebellum.Anterior Lobe.Culmen.Gray Matter.*
+      224mm Left Brainstem.Midbrain.*.Gray Matter.Substania Nigra
+      40mm Right Brainstem.Midbrain.*.Gray Matter.Red Nucleus
+      8mm Left Brainstem.Midbrain.*.Gray Matter.Mammillary Body
+
+ #17: 2464 mm^3 from (-16,-10,-14) to (-2,4,0) centered at (-9,-3,-7)
+    Extrema: (Labels are within +/-5mm)
+      0.009304394 at (-10,-4,-6)	Left Cerebrum.Sub-lobar.Lentiform Nucleus.Gray Matter.*
+    Labels: (Nearest gray within +/-5mm)
+      984mm Left Cerebrum.Sub-lobar.Lentiform Nucleus.Gray Matter.Medial Globus Pallidus
+      464mm Left Cerebrum.Sub-lobar.*.Gray Matter.Hypothalamus
+      400mm Left Cerebrum.Sub-lobar.Thalamus.Gray Matter.*
+      224mm Left Cerebrum.Sub-lobar.Lentiform Nucleus.Gray Matter.*
+      112mm Left Brainstem.Midbrain.*.Gray Matter.Subthalamic Nucleus
+      80mm Left Cerebrum.Sub-lobar.Lentiform Nucleus.Gray Matter.Lateral Globus Pallidus
+      72mm Left Cerebrum.Limbic Lobe.Anterior Cingulate.Gray Matter.Brodmann area 25
+      48mm Left Cerebrum.Sub-lobar.Caudate.Gray Matter.Caudate Head
+      40mm Left Cerebrum.Sub-lobar.Thalamus.Gray Matter.Ventral Anterior Nucleus
+      24mm Left Brainstem.Midbrain.*.Gray Matter.Mammillary Body
+      16mm Left Cerebrum.Sub-lobar.*.Gray Matter.*
+
+ #18: 2432 mm^3 from (-30,-60,2) to (-16,-46,16) centered at (-23,-53,9)
+    Extrema: (Labels are within +/-5mm)
+      0.00930438 at (-23,-53,9)	Left Cerebrum.Limbic Lobe.Parahippocampal Gyrus.Gray Matter.Brodmann area 30
+    Labels: (Nearest gray within +/-5mm)
+      1224mm Left Cerebrum.Limbic Lobe.Parahippocampal Gyrus.Gray Matter.Brodmann area 30
+      696mm Left Cerebrum.Limbic Lobe.Posterior Cingulate.Gray Matter.Brodmann area 30
+      264mm Left Cerebrum.Occipital Lobe.Lingual Gyrus.Gray Matter.Brodmann area 18
+      96mm No Gray Matter found
+      56mm Left Cerebrum.Temporal Lobe.Sub-Gyral.Gray Matter.Hippocampus
+      48mm Left Cerebrum.Limbic Lobe.Parahippocampal Gyrus.Gray Matter.Brodmann area 18
+      24mm Left Cerebrum.Occipital Lobe.Lingual Gyrus.Gray Matter.*
+      16mm Left Cerebrum.Limbic Lobe.Parahippocampal Gyrus.Gray Matter.Brodmann area 19
+      8mm Left Cerebrum.Limbic Lobe.Posterior Cingulate.Gray Matter.Brodmann area 29
+
+ #19: 1792 mm^3 from (-12,-102,-28) to (2,-86,-12) centered at (-5.2,-93.3,-18.7)
+    Extrema: (Labels are within +/-5mm)
+      0.009234563 at (-4,-94,-20)	Left Cerebellum.*.*.Gray Matter.*
+    Labels: (Nearest gray within +/-5mm)
+      536mm Left Cerebellum.Posterior Lobe.Declive.Gray Matter.*
+      416mm Left Cerebrum.Occipital Lobe.Lingual Gyrus.Gray Matter.Brodmann area 18
+      360mm Left Cerebellum.*.*.Gray Matter.*
+      304mm Left Cerebellum.Posterior Lobe.Uvula.Gray Matter.*
+      120mm Left Cerebellum.Posterior Lobe.Pyramis.Gray Matter.*
+      24mm No Gray Matter found
+      24mm Right Cerebellum.*.*.Gray Matter.*
+      8mm Left Cerebrum.Occipital Lobe.Lingual Gyrus.Gray Matter.Brodmann area 17
+
+
+Experiment Table:
+[ 0 2 3 0 0 0 1 1 1 ]
+[ 2 0 0 2 0 0 0 0 0 ]
+[ 1 0 1 0 2 0 0 0 0 ]
+[ 1 0 0 0 4 0 0 0 0 ]
+[ 0 0 1 1 1 0 0 0 0 ]
+[ 0 0 0 0 1 1 0 0 0 ]
+[ 1 0 0 1 0 0 0 0 0 ]
+[ 1 0 0 0 1 0 0 0 0 ]
+[ 0 0 0 0 0 1 0 0 0 ]
+[ 0 0 0 0 0 1 0 0 0 ]
+[ 0 0 0 0 0 1 0 0 0 ]
+[ 1 0 0 0 0 0 0 0 0 ]
+[ 0 0 0 0 0 1 0 0 0 ]
+[ 1 0 0 0 0 0 0 0 0 ]
+[ 1 0 0 0 0 0 0 0 0 ]
+[ 0 0 0 1 0 0 0 0 0 ]
+[ 0 0 0 0 1 0 0 0 0 ]
+[ 0 0 0 0 1 0 0 0 0 ]
+[ 0 0 0 0 0 1 0 0 0 ]
+
+Contributors to cluster #1
+2 foci from Odegard et al., 2009: FA-task overlap correlation, Positive correlations 
+3 foci from Beaulieu et al., 2005: FA-Word ID correlation, Positive correlations 
+1 foci from Deutsch et al., 2005: FA-task overlap correlation, Positive correlations 
+1 foci from Klingberg et al., 2000: FA-task overlap correlation, Positive correlations 
+1 foci from Keller and Just., 2009: FA-WRMT word attack correlation, Positive correlations 
+
+Contributors to cluster #2
+2 foci from Lebel et al., 2013: FA-task overlap correlation, Positive correlations 
+2 foci from Zhang et al., 2014: FA-TWORE SWE American correlation, Positive correlations 
+
+Contributors to cluster #3
+1 foci from Lebel et al., 2013: FA-task overlap correlation, Positive correlations 
+1 foci from Beaulieu et al., 2005: FA-Word ID correlation, Positive correlations 
+2 foci from Zhang et al., 2014: FA-TWORE SWE Chinese correlation, Positive correlations 
+
+Contributors to cluster #4
+1 foci from Lebel et al., 2013: FA-task overlap correlation, Positive correlations 
+4 foci from Zhang et al., 2014: FA-TWORE SWE Chinese correlation, Positive correlations 
+
+Contributors to cluster #5
+1 foci from Beaulieu et al., 2005: FA-Word ID correlation, Positive correlations 
+1 foci from Zhang et al., 2014: FA-TWORE SWE American correlation, Positive correlations 
+1 foci from Zhang et al., 2014: FA-TWORE SWE Chinese correlation, Positive correlations 
+
+Contributors to cluster #6
+1 foci from Zhang et al., 2014: FA-TWORE SWE Chinese correlation, Positive correlations 
+1 foci from Rimrodt et al., 2010: FA-TWORE SWE correlation, Positive correlations 
+
+Contributors to cluster #7
+1 foci from Lebel et al., 2013: FA-task overlap correlation, Positive correlations 
+1 foci from Zhang et al., 2014: FA-TWORE SWE American correlation, Positive correlations 
+
+Contributors to cluster #8
+1 foci from Lebel et al., 2013: FA-task overlap correlation, Positive correlations 
+1 foci from Zhang et al., 2014: FA-TWORE SWE Chinese correlation, Positive correlations 
+
+Contributors to cluster #9
+1 foci from Rimrodt et al., 2010: FA-TWORE SWE correlation, Positive correlations 
+
+Contributors to cluster #10
+1 foci from Rimrodt et al., 2010: FA-TWORE SWE correlation, Positive correlations 
+
+Contributors to cluster #11
+1 foci from Rimrodt et al., 2010: FA-TWORE SWE correlation, Positive correlations 
+
+Contributors to cluster #12
+1 foci from Lebel et al., 2013: FA-task overlap correlation, Positive correlations 
+
+Contributors to cluster #13
+1 foci from Rimrodt et al., 2010: FA-TWORE SWE correlation, Positive correlations 
+
+Contributors to cluster #14
+1 foci from Lebel et al., 2013: FA-task overlap correlation, Positive correlations 
+
+Contributors to cluster #15
+1 foci from Lebel et al., 2013: FA-task overlap correlation, Positive correlations 
+
+Contributors to cluster #16
+1 foci from Zhang et al., 2014: FA-TWORE SWE American correlation, Positive correlations 
+
+Contributors to cluster #17
+1 foci from Zhang et al., 2014: FA-TWORE SWE Chinese correlation, Positive correlations 
+
+Contributors to cluster #18
+1 foci from Zhang et al., 2014: FA-TWORE SWE Chinese correlation, Positive correlations 
+
+Contributors to cluster #19
+1 foci from Rimrodt et al., 2010: FA-TWORE SWE correlation, Positive correlations 

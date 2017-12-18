@@ -1,0 +1,4 @@
+// Reference=Talairach
+// Nagy et al., 2004: FA-task correlation, Negative correlations
+// Subjects=23
+-27, -28, 6
