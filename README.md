@@ -6,6 +6,7 @@ Files included:
 - LICENSE.md - License and rights to use/reuse content.
 - TBD.pdf - Final, published version of the paper.
 - Figure_1:4 - Resolution-free versions of all figures.
+- Additional_Fig_SamplevsCluster - Additional figure, not included in the manuscript, plotting the number of significant clusters as a function of sample size, for each phase of the meta-analysis.
 - Difference analysis with Richards: all files (.txt, .nii, .xls) for Phase 1.
 - Difference analysis without Richards: all files (.txt, .nii, .xls) for Phase 1, leaving out the Richards et al. study.
 - Additional analysis adults: all files (.txt, .nii, .xls) for Phase 1, adults only.
