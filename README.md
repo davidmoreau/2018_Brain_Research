@@ -1,9 +1,9 @@
 # 2018_Brain_Research
 
-These files accompany the paper "No Evidence for Systematic White Matter Correlates of Dyslexia: An Activation Likelihood Estimation Meta-Analysis", currently under review.
+These files accompany the paper "No Evidence for Systematic White Matter Correlates of Dyslexia: An Activation Likelihood Estimation Meta-Analysis", published in Brain Research.
 
 Files included:
-- 2018_BrainResearch_Moreau.pdf - Final, published version of the paper.
+- Preprint: https://www.biorxiv.org/content/early/2018/01/10/246009
 - 2018_BrainResearch_Moreau_SM.pdf- Supplemental material.
 - Figure_1:4 - Resolution-free versions of all figures.
 - Additional_Fig_SamplevsCluster - Additional figure, not included in the manuscript, plotting the number of significant clusters as a function of sample size, for each phase of the meta-analysis.
@@ -20,6 +20,6 @@ Files included:
 - Additional correlation analysis without Chinese children: all files (.txt, .nii, .xls) for Phase 2, children only, excluding readers of Chinese.
 - LICENSE.md - License and rights to use/reuse content.
 
-Please cite as: Moreau, D., Stonyer, J. E., McKay, N. S., & Waldie, K. E. (under review). No Evidence for Systematic White Matter Correlates of Dyslexia: An Activation Likelihood Estimation Meta-Analysis.
+Please cite as: Moreau, D., Stonyer, J. E., McKay, N. S., & Waldie, K. E. (2018). No Evidence for Systematic White Matter Correlates of Dyslexia: An Activation Likelihood Estimation Meta-Analysis. Brain Research.
 
 Suggestions or comments? Please send an email to d.moreau@auckland.ac.nz
